@@ -11,3 +11,6 @@ Created a C++ program that uses vector to create a list from objects. The object
 
 ## tehtävä 3a
 learned how to use inheritance between objects. Created an object Chef and subobject ItalianChef. 
+
+## tehtävä 4
+learned how to use composition. This exercise uses classes Car, Engine and Wheel. 
