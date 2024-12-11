@@ -17,3 +17,6 @@ learned how to use composition. This exercise uses classes Car, Engine and Wheel
 
 ## tehtävä 5
 learned about the differences and usage of references, assosiation and aggregation. 
+
+## tehtävä 6a & 6b
+learned how to use signal/slot and macros in QT and learned how to use QObject and Q_OBJECT in console applications.
