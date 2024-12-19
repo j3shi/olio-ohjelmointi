@@ -20,3 +20,6 @@ learned about the differences and usage of references, assosiation and aggregati
 
 ## tehtävä 6a & 6b
 learned how to use signal/slot and macros in QT and learned how to use QObject and Q_OBJECT in console applications.
+
+## tehtävä 7
+learned how to create a QWidget application with two buttons "Count" that adds +1 to the count whenever pressed and "Reset" that resets the counter.
